@@ -2,3 +2,4 @@ Hello Git!
 Hello Test!
 Test!
 Add string
+Hello Git!
