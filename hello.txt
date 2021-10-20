@@ -3,3 +3,4 @@ Hello Test!
 Test!
 Add string
 Hello Git!
+Hello Git rebase!
