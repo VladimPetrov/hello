@@ -4,3 +4,4 @@ Test!
 Add string
 Hello Git!
 Hello Git rebase!
+Hello git cherry-pick!
